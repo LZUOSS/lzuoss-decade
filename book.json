@@ -1,0 +1,11 @@
+{
+    "author": "http://oss.lzu.edu.cn",
+    "description": "一本写给兰大开源人的书，记录我们对开放、自由与分享精神的探索历程，纪念我们曾经学习、携手和奋斗的青葱岁月……",
+    "generator": "site",
+    "links": {
+        "sidebar": {
+            "兰大开源社区": "http://oss.lzu.edu.cn"
+        }
+    },
+    "title": "兰大开源社区这十年"
+}
