@@ -56,4 +56,4 @@ v 0.01
 
 -   [新浪微博](http://weibo.com/osslzu)
 
-   [<img src="pic/osslzu-sina.png" width="168px"/>](http://weibo.com/osslzu)
+   [<img src="pic/lzuoss-weibo.jpg" width="168px"/>](http://weibo.com/osslzu)
